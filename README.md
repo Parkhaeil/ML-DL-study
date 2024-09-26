@@ -1,4 +1,4 @@
-# 스터디명
+# 혼공머신 스터디
 
 # 규칙
 ex) <br>
@@ -17,7 +17,6 @@ ex)
 
 # 멤버
 ```
-ex)
-- [안소희](https://github.com/soheean1370)
+- [서혜민](https://github.com/Parkhaeil)
 - [이름](깃허브 링크)
 ```
