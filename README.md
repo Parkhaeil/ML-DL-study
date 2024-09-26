@@ -18,5 +18,5 @@ ex)
 # 멤버
 ```
 - [서혜민](https://github.com/Parkhaeil)
-- [이름](깃허브 링크)
+- [문진혁](https://github.com/wlsgur11)
 ```
