@@ -16,7 +16,6 @@ ex)
 [질문 템플릿](./question/README.md)
 
 # 멤버
-```
-- [서혜민](https://github.com/Parkhaeil)
-- [문진혁](https://github.com/wlsgur11)
-```
+|[서혜민](https://github.com/Parkhaeil) | [문진혁](https://github.com/wlsgur11) |
+|:-----------------------------------------:|:-----------------------------------------:|
+|<img src="https://github.com/Parkhaeil.png" width="100">|<img src="https://github.com/wlsgur11.png" width="100"> |
