@@ -1,22 +1,16 @@
 # 혼공머신 스터디
 
-# 규칙
-ex) <br>
-매주 금요일 2시
-
+## 규칙
+- 매주 수요일 21시 30분 - 22시 대면활동
+- 매주 화,금 22시까지 과제 제출
+- 과제는 주에 약 30쪽, 2번 정도 나갈 예정 
 
 ## 발표 내용
-```
-ex)
-|챕터|링크|
-|---|---|
-|Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
-|챕터|[챕터명](링크)|
-```
-|챕터|링크|
-|---|---|
-|Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
-|챕터|[챕터명](링크)|
+
+| 챕터 | 서혜민 | 문진혁 | 이준수 | 엄재영 |
+|-----|------|------|----|-----|
+| Chapter 1   | [나의 첫 머신러닝](https://velog.io/@saepal_cse/%EC%A0%95%EB%A6%AC-%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0-chapter-1) | [나의 첫 머신러닝](https://velog.io/@saepal_cse/%EC%A0%95%EB%A6%AC-%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0-chapter-1) | [나의 첫 머신러닝](https://velog.io/@saepal_cse/%EC%A0%95%EB%A6%AC-%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0-chapter-1) | [나의 첫 머신러닝](https://velog.io/@saepal_cse/%EC%A0%95%EB%A6%AC-%ED%98%BC%EA%B3%B5%EB%A8%B8%EC%8B%A0-chapter-1) |
+| 챕터명 | [챕터명](링크) | [챕터명](링크) | [챕터명](링크) | [챕터명](링크) |
 
 
 ## 질문
