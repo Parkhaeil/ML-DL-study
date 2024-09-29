@@ -18,6 +18,6 @@
 
 
 # 멤버
-|[서혜민](https://github.com/Parkhaeil) | [문진혁](https://github.com/wlsgur11) |[엄재영](https://github.com/JaeyoungEom)| [이준수](https://github.com/junso0) |
+|[서혜민](https://github.com/Parkhaeil) | [문진혁](https://github.com/wlsgur11) |[엄재영](https://github.com/JaeyoungEom)|
 |:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
 |<img src="https://github.com/Parkhaeil.png" width="100">|<img src="https://github.com/wlsgur11.png" width="100"> |<img src="https://github.com/JaeyoungEom.png" width="100"> | <img src="https://github.com/junso0.png" width="100"> |
